@@ -1,0 +1,74 @@
+
+
+INFO	2018-02-01 05:13:05,283	0	com.aureus.collegeboard.StudentUtil	[main]	Student Util Instance initialized
+INFO	2018-02-01 05:13:05,284	1	com.aureus.collegeboard.StudentUtil	[main]	Unit tests outside JUnitj
+----------------------------------
+
+INFO	2018-02-01 05:13:05,305	22	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 1
+INFO	2018-02-01 05:13:05,305	22	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 0
+INFO	2018-02-01 05:13:05,308	25	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: -0.0027397260273972603
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	Return value: 12
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	12
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 4
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 5844
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 16.0
+INFO	2018-02-01 05:13:05,309	26	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1, pre-k
+INFO	2018-02-01 05:13:05,310	27	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1
+INFO	2018-02-01 05:13:05,310	27	com.aureus.collegeboard.StudentUtil	[main]	-1
+INFO	2018-02-01 05:13:05,310	27	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 1
+INFO	2018-02-01 05:13:05,310	27	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: -1
+INFO	2018-02-01 05:13:05,310	27	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: -0.005479452054794521
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Return value: 99 post-grad
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Return value: 99
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	99
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 3
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 4660
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 12.758904109589041
+INFO	2018-02-01 05:13:05,311	28	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1, pre-k
+INFO	2018-02-01 05:13:05,312	29	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1
+INFO	2018-02-01 05:13:05,312	29	com.aureus.collegeboard.StudentUtil	[main]	-1
+INFO	2018-02-01 05:13:05,312	29	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 1
+INFO	2018-02-01 05:13:05,313	30	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 124
+INFO	2018-02-01 05:13:05,313	30	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 0.336986301369863
+INFO	2018-02-01 05:13:05,313	30	com.aureus.collegeboard.StudentUtil	[main]	Return value: 12
+INFO	2018-02-01 05:13:05,313	30	com.aureus.collegeboard.StudentUtil	[main]	12
+INFO	2018-02-01 05:13:05,313	30	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 0
+INFO	2018-02-01 05:13:05,314	31	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 308
+INFO	2018-02-01 05:13:05,315	32	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 0.8438356164383561
+INFO	2018-02-01 05:13:05,315	32	com.aureus.collegeboard.StudentUtil	[main]	Return value: 12
+INFO	2018-02-01 05:13:05,315	32	com.aureus.collegeboard.StudentUtil	[main]	12
+INFO	2018-02-01 05:13:05,315	32	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 3
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 4658
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 12.753424657534246
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	Return value: 0
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	0
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 3
+INFO	2018-02-01 05:13:05,316	33	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 4537
+INFO	2018-02-01 05:13:05,317	34	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 12.421917808219177
+INFO	2018-02-01 05:13:05,317	34	com.aureus.collegeboard.StudentUtil	[main]	Return value: 0
+INFO	2018-02-01 05:13:05,317	34	com.aureus.collegeboard.StudentUtil	[main]	0
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 0
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: -242
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: -0.663013698630137
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	Return value: 99 post-grad
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	Return value: 99
+INFO	2018-02-01 05:13:05,319	36	com.aureus.collegeboard.StudentUtil	[main]	99
+INFO	2018-02-01 05:14:51,031	0	com.aureus.collegeboard.StudentUtil	[main]	Student Util Instance initialized
+INFO	2018-02-01 05:14:51,033	2	com.aureus.collegeboard.AppTest	[main]	Unit tests in JUnit
+----------------------------------
+
+INFO	2018-02-01 05:14:51,033	2	com.aureus.collegeboard.AppTest	[main]	Test for kids not yet in school
+INFO	2018-02-01 05:14:51,063	32	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 4
+INFO	2018-02-01 05:14:51,064	33	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 5844
+INFO	2018-02-01 05:14:51,069	38	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 16.0
+INFO	2018-02-01 05:14:51,069	38	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1, pre-k
+INFO	2018-02-01 05:14:51,069	38	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1
+INFO	2018-02-01 05:14:51,069	38	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 3
+INFO	2018-02-01 05:14:51,069	38	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 4660
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 12.758904109589041
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1, pre-k
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Return value: -1
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Number of leap years: 3
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Days until graduation: 4658
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Years until graduation: 12.753424657534246
+INFO	2018-02-01 05:14:51,070	39	com.aureus.collegeboard.StudentUtil	[main]	Return value: 0
